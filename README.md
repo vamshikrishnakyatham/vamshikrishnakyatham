@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **vamshikrishna.kyatham.22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fdB43TNyQXgoCQ1ecplzvX4Qs6RCxuEQ/view](https://drive.google.com/file/d/1fdB43TNyQXgoCQ1ecplzvX4Qs6RCxuEQ/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fdB43TNyQXgoCQ1ecplzvX4Qs6RCxuEQ/view)
+  
+- 👨🏻‍💻 Know my Competitive Programming journey [Profile](https://clist.by/coder/vamshikrishnakyatham/)
 
 - ⚡ Fun fact **I love driving F1 cars**
 
