@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vamshi Krishna Kyatham</h1>
-<h3 align="center">A passionate full stack engineer from United States</h3>
+<h3 align="center">A Passionate Full Stack Engineer, Researcher.</h3>
 
 - 🔭 I’m currently working on [Reinforcement Learning from Human Feedback and PPO](https://github.com/vamshikrishnakyatham/rlhf-ppo)
 
