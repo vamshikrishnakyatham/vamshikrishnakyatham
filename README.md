@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to reduce carbon emissions from large data centers and servers by optimizing the architecture of software**
 
-- 👨‍💻 All of my projects are available at [https://vamshikrishnakyatham.github.io/personal-portfolio/](https://vamshikrishnakyatham.github.io/personal-portfolio/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://vamshikrishnakyatham.github.io/personal-portfolio/)
 
 - 💬 Ask me about **competitive programming, building efficient and scalable software products, artificial intelligence**
 
