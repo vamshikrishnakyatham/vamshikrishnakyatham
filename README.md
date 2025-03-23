@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vamshi Krishna Kyatham</h1>
 <h3 align="center">A Passionate Full Stack Engineer, Researcher.</h3>
 
-- 🔭 I’m currently working on [optimizing software performance and streamlining microservice network communications to reduce latency. This work not only improves system efficiency but also minimizes energy consumption, ultimately contributing to a reduction in our carbon footprint.]
+- 🔭 I’m currently working on **optimizing software performance and streamlining microservice network communications to reduce latency. This work not only improves system efficiency but also minimizes energy consumption, ultimately contributing to a reduction in our carbon footprint.**
 
 - 🌱 I’m currently learning **how to reduce carbon emissions from large data centers and servers by optimizing scalable software systems**.
 
